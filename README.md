@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+*** If you want to run dev locally, find lines required to comment out in next.config.js then run
+
 First, run the development server:
 
 ```bash
